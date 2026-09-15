@@ -13,7 +13,7 @@
 ## 🚀 Mis Proyectos (Curso Full Stack - Alkemy)
 
 Mi desarrollo principal se encuentra consolidado en un **único repositorio integrador**, donde evolucionó progresivamente a través de tres módulos:
-📌 **[Repositorio Integrador: Proyecto Backend](https://github.com/Bot-PRO/Proyecto-backend)**
+📌 **[Repositorio Integrador: Proyecto Backend](https://github.com/Ale-fr/Proyecto-backend)**
 
 * **1. Módulo 6: Servidor Backend & Lógica de Negocio**  
   * *Descripción:* Estructura inicial del servidor Express, enrutamiento modular, vistas dinámicas con Handlebars y persistencia de logs de peticiones HTTP.  
