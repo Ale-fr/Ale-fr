@@ -5,7 +5,7 @@
 
 ## 📬 Contacto
 - **Email:** alejandrofrl02@ejemplo.com 
-- **LinkedIn:** [linkedin.com](https://linkedin.com/in/alejandro-farias-01b573437) 
+- **LinkedIn:** [Link al Perfil de LinKedIn](https://linkedin.com/in/alejandro-farias-01b573437) 
 - **CV:** 
 
 ---
@@ -15,11 +15,11 @@
 Mi desarrollo principal se encuentra consolidado en un **único repositorio integrador**, donde evolucionó progresivamente a través de tres módulos:
 📌 **[Repositorio Integrador: Proyecto Backend](https://github.com/Ale-fr/Proyecto-backend)**
 
-* **1. Módulo 6: Servidor Backend & Lógica de Negocio**  
+* **1. Proyecto Módulo 6: Servidor Backend & Lógica de Negocio**  
   * *Descripción:* Estructura inicial del servidor Express, enrutamiento modular, vistas dinámicas con Handlebars y persistencia de logs de peticiones HTTP.  
-* **2. Módulo 7: Base de Datos & Modelado SQL**  
+* **2. Proyecto Módulo 7: Base de Datos & Modelado SQL**  
   * *Descripción:* Integración con Sequelize y MySQL. Modelado de entidades con relaciones 1:N y N:M, operaciones CRUD, búsquedas paginadas y transacciones atómicas con `rollback`.  
-* **3. Módulo 8: API REST & Autenticación**  
+* **3. Proyecto Módulo 8: API REST & Autenticación**  
   * *Descripción:* Exposición de una API RESTful segura. Protección de rutas críticas mediante JSON Web Tokens (JWT) y sistema de subida de archivos validados con Multer.  
 
 ---
