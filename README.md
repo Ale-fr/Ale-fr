@@ -5,7 +5,7 @@
 
 ## 📬 Contacto
 - **Email:** alejandrofrl02@ejemplo.com 
-- **LinkedIn:** [Link al Perfil de LinKedIn](https://linkedin.com/in/alejandro-farias-01b573437) 
+- **LinkedIn:** [Link al Perfil de LinKedIn](https://linkedin.com/in/dev-ale) 
 - **CV:** 
 
 ---
